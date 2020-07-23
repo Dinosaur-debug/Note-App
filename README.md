@@ -1,6 +1,3 @@
-# Note-App
-Basic code
-
 
 
 
