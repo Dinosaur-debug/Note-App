@@ -1,13 +1,9 @@
-
-
-
 # To add notes
-
 node app.js add --title=" " --body=" "
 
 
 # To remove notes
-node app.js remove --title=" " --body=" "
+node app.js remove --title=" "
 
 
 # To list notes
